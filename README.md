@@ -71,11 +71,6 @@ I'm Ayush Bhardwaj — my journey in Dev began in high school, where I first dab
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
 <br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-bh&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c%2B%2B,c,jupyter%20notebook,cmake,makefile) &nbsp;&nbsp; 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ay-bh&theme=vue-dark&hide_border=false&layout=compact)
-
-
 ---
 
 
